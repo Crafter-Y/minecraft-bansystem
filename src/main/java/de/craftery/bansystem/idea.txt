@@ -1,0 +1,34 @@
+[X] /BMK NAME GRUND
+    -> System für Ban, Mute, Kick
+
+[X] Grund Datenbank
+
+[X] History
+
+[X] /vz NAME
+    -> 17.3.2021 - von karatenutella - Spam
+
+[X] /Unban
+
+[X] /unmute NAME
+
+[X] Ban IDS generieren
+
+[] evtl. History webserver mit Datei Uplaod
+
+
+[X] Kick Screen:
+    ID hinzufügen
+    Bitte unterlasse dieses Verhalten.
+
+[X] Ansicht für mögliche Bangründe
+
+[X] /b
+
+[X] /m
+
+[] Verschiedene Stufen an Berechtugengen
+
+
+unban und unmute ganze sätze
+

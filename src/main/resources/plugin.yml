@@ -1,0 +1,24 @@
+name: Bansystem
+version: ${project.version}
+main: de.craftery.bansystem.Main
+api-version: 1.16
+prefix: Bansystem
+authors: [ Crafter_Y ]
+description: A brand new ban system
+website: https://crafter-y.de
+
+commands:
+  bmk:
+    usage: /<command>
+  unban:
+    usage: /<command>
+  unmute:
+    usage: /<command>
+  vz:
+    usage: /<command>
+  b:
+    usage: /<command>
+  m:
+    usage: /<command>
+  ouuid:
+    usage: /<command>
