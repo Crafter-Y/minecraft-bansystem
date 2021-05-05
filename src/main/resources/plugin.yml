@@ -20,5 +20,3 @@ commands:
     usage: /<command>
   m:
     usage: /<command>
-  ouuid:
-    usage: /<command>
