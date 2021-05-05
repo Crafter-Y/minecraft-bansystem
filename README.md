@@ -1,1 +1,1 @@
-"# minecraft-bansystem" 
+# minecraft-bansystem
