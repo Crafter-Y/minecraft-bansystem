@@ -4,8 +4,8 @@ main: de.craftery.bansystem.Main
 api-version: 1.16
 prefix: Bansystem
 authors: [ Crafter_Y ]
-description: A brand new ban system
-website: https://crafter-y.de
+description: This Plugin was designed for the needs of a Server I preveously worked on
+website: https://github.com/Crafter-Y/minecraft-bansystem
 
 commands:
   bmk:
